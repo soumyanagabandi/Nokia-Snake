@@ -1,0 +1,24 @@
+#canvas
+{
+	
+	background-color:green;
+	align-items:center;
+    margin-top:30px;
+}
+#startbtn
+{
+text-align:center;
+}	
+.div1
+{
+	text-align:center;
+}
+@media only screen and (max-width:1000px)
+{
+	#canvas
+	{
+		width:250px;
+		height:250px;
+	}
+	
+}
